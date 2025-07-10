@@ -1,7 +1,7 @@
 ---
-title: "{{< fa book-open >}} Data visualization and transformation"
-subtitle: "{{< fa book >}} Data Science with R"
-author: "Mine Çetinkaya-Rundel + Elijah Meyer"
+title: "Data visualization and transformation"
+subtitle: "Data Science with R"
+author: "Charlotte Bradburn"
 listing:
   - id: slides
     contents: slides/*/*.qmd
